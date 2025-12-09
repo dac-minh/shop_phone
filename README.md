@@ -13,7 +13,7 @@ Cài đặt & chạy (một lần)
    - Hoặc tạo DB `martfury_shop` rồi import file trên.
 
 2. Cấu hình backend
-   - Chỉnh [Work_Place/MartfuryShop/src/main/resources/application.properties](Work_Place/MartfuryShop/src/main/resources/application.properties) nếu cần thay đổi `spring.datasource.*` hoặc `bezkoder.app.jwtSecret`.
+   - Chỉnh [/MartfuryShop/src/main/resources/application.properties](/MartfuryShop/src/main/resources/application.properties) nếu cần thay đổi `spring.datasource.*` hoặc `bezkoder.app.jwtSecret`.
 
 3. Chạy backend
    - Từ thư mục `Work_Place/MartfuryShop`:
