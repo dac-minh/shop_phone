@@ -30,3 +30,6 @@ Cài đặt & chạy (một lần)
    - Từ `Work_Place/angular-admin`:
      npm install
      npm start
+
+Báo cáo
+(https://docs.google.com/document/d/1dqj3lAvJ7lnozrItHjAUuVUwuOy8u6uY0t8eNDZDbjo/edit?tab=t.0)
